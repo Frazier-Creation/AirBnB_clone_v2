@@ -1,0 +1,26 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v165)
+"   /AirBnB_clone_v2
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../
+./
+.git/
+models/
+tests/
+web_flask/
+web_static/
+1-pack_web_static.py*
+100-clean_web_static.py*
+2-do_deploy_web_static.py*
+3-deploy_web_static.py*
+console.py*
+0-setup_web_static.sh
+7-dump.sql
+AUTHORS
+README.md
+file.json
+setup_mysql_dev.sql
+setup_mysql_test.sql
